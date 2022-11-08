@@ -18,4 +18,6 @@ int main()
     cin >> c;
 
     cout << a << ", " << b << ", " << c ;
+
+    return 0;
 }

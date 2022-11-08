@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
     int x, y, z;
     x = 7;
@@ -21,4 +21,6 @@ int main()
 
     z_d = z % y;
     cout << "d. z % y :" << z_d << endl;
+
+    return 0;
 }
