@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Project/Latihan/amik/alogritma",
-      "program": "d:/Project/Latihan/amik/alogritma/build/Debug/outDebug",
+      "cwd": "d:/Project/Latihan/amik/alogritma/src",
+      "program": "d:/Project/Latihan/amik/alogritma/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
