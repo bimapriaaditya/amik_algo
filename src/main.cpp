@@ -1,10 +1,15 @@
 // main.cpp
 #include <iostream>
-#include "math/trigonometry.cpp"
+// #include "uas/soal1/a.cpp"
+// #include "uas/soal1/b.cpp"
+// #include "uas/soal1/c.cpp"
+// #include "uas/soal1/d.cpp"
 
-int main() {
-  Trigonometry trig;
-  double result = trig.sin(3.14 / 2);
-  std::cout << "The result is: " << result << std::endl;
+int main() 
+{
+  // ProgramA();
+  // ProgramB();
+  // ProgramC();
+  // ProgramD();
   return 0;
 }
