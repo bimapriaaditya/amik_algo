@@ -1,10 +1,14 @@
 // main.cpp
 #include <iostream>
-#include "math/trigonometry.cpp"
+// #include "forloop/a.cpp"
+// #include "forloop/b.cpp"
+// #include "forloop/c.cpp"
+#include "forloop/d.cpp"
 
 int main() {
-  Trigonometry trig;
-  double result = trig.sin(3.14 / 2);
-  std::cout << "The result is: " << result << std::endl;
+  // FoorloopA();
+  // FoorloopB();
+  // FoorloopC();
+  FoorloopD();
   return 0;
 }
