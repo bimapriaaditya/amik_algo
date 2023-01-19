@@ -10,7 +10,9 @@
 // #include "uas/soal3/a.cpp"
 // #include "uas/soal3/b.cpp"
 // #include "uas/soal3/c.cpp"
-#include "uas/soal3/d.cpp"
+// #include "uas/soal3/d.cpp"
+
+#include "uas/soal4/SortingArray.cpp"
 
 int main() 
 {
@@ -24,7 +26,9 @@ int main()
   // ForLoop();
   // WhileDo();
   // DoWhile();
-  NastedLoop();
+  // NastedLoop();
+
+  SortingArray();
 
   return 0;
 }
