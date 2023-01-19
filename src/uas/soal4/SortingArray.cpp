@@ -7,7 +7,7 @@ int main() {
     cin >> n;
 
     int arr[n];
-    cout << "Enter the elements of the array: ";
+    cout << "Enter the elements of the array:";
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
